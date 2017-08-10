@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--系统颜色-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#00a0fc</color>
+
+    <!-- 主题颜色 -->
+    <color name="app_color">#00a0fc</color>
+    <!-- 底部Dialog分割线颜色 -->
+    <color name="bottom_dialog_devide_color">#c4c3c3</color>
+
+    <!--基本颜色-->
+    <color name="white">#ffffff</color>//白色
+    <color name="black">#000000</color>//黑色
+    <color name="green">#04f983</color>//绿色
+    <color name="gray">#cccccc</color>//灰色
+    <color name="gray_deep">#878787</color>//深灰色
+    <color name="gray2">#f6f6f6</color>//浅灰色
+    <color name="schedule_week">#40b0fc</color>
+    <color name="holo_red_light">#ffff4444</color>
+
+    <!-- 投票统计相关颜色 -->
+    <color name="zancheng">#59b6ed</color>
+    <color name="fandui">#f26666</color>
+    <color name="qiquan">#91f07a</color>
+    <color name="zongrenshu">#ababa8</color>
+
+    <!-- 10dp分割线颜色 -->
+    <color name="my_device">#ebeff2</color>
+
+    <!-- 首页时间的背景颜色 -->
+    <color name="home_start">#66bcee</color>
+    <color name="home_ing">#5ae5d7</color>
+    <color name="home_end">#b3b3b3</color>
+
+    <!-- 分割线相关 -->
+    <color name="yitongguo">#33b0b5</color>
+    <color name="weitongguo">#33b3ff</color>
+    <color name="yiquxiao">#ababab</color>
+    <color name="weichuli">#b3b3b3</color>
+
+    <!-- 会议详情中非必选的文字的颜色 -->
+    <color name="meeting_detail_text_color">#6f8a9b</color>
+
+    <!-- 进度条背景颜色 -->
+    <color name="progressbar">#FF4081</color>
+
+    <!-- calendar color -->
+    <color name="calendar_current_day_selected">#e57c7c</color><!-- 当天被选中的颜色 -->
+    <color name="calendar_day_selected">#66d4a7</color>
+    <color name="calendar_point_color">#00fffc</color>
+    <color name="calendar_day_select_text">#2e5e7a</color>
+    <color name="cal_line_grey">#9B9B9B</color>
+    <color name="cal_color_red">#FFE54E36</color>
+    <color name="cal_color_green">#FF16A085</color>
+    <color name="stroke">#77d4f6</color>
+    <color name="cal_text_light">#ababab</color>
+</resources>
